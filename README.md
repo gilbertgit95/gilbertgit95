@@ -17,22 +17,22 @@
         <div>
             <h3>Current Status:</h3>
             <ul>
-                <li>🔭 Currently working on a base code application for flatforms such as: web, server, mobile
+                <li>🔭 Currently exploring flatforms such as: server, web, mobile, and desktop
                 </li>
-                <li>🌱 Currently learning web, mobile development and python programming
+                <li>🌱 Currently learning a little, typescript, python and go
                 </li>
-                <li>⚡ Im currently practicing BJJ and sometimes I do sketching
+                <li>⚡ Currently exploring BJJ (grappling)
                 </li>
             </ul>
         </div>
         <div>
             <h3>Github Stats:</h3>
-            <img width="663"  src="https://activity-graph.herokuapp.com/graph?username=gilbertgit95" />
+            <!--img width="663"  src="https://activity-graph.herokuapp.com/graph?username=gilbertgit95" />
+            <br /-->
+            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact&theme=transparent" />
+            <img height="200" src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&theme=transparent&show_icons=true" />
             <br />
-            <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact" />
-            <img width="360"  src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&show_icons=true" />
-            <br />
-            <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertgit95" />
+            <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertgit95&theme=transparent" />
         </div>
     </div>
 </div>
