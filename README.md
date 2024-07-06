@@ -19,10 +19,7 @@
             <ul>
                 <li>🔭 Currently exploring flatforms such as: server, web, mobile, and desktop
                 </li>
-                <li>🌱 Currently learning a little, typescript, python and go
-                </li>
-                <li>⚡ Currently exploring BJJ (grappling)
-                </li>
+                <li>🌱 Currently developing core web application packages</li>
             </ul>
         </div>
         <div>
