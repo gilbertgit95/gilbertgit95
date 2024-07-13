@@ -1,6 +1,6 @@
 <div style="display:flex; flex-direction: row;">
     <div>
-        <h3>👋 Hi there! I am Berto</h3>
+        <h3>👋 Hi there! I am Gilbert</h3>
         <p style="text-indent: 50px;">
             As a modern farmer, my goal is to be able to create technologies for different platforms.
             To make life easier with positive impact to the environment. To enhance communities and Environment
@@ -17,7 +17,7 @@
         <div>
             <h3>Current Status:</h3>
             <ul>
-                <li>🔭 Currently exploring flatforms such as: server, web, mobile, and desktop
+                <li>🔭 Currently exploring Javascript, Typescript, React, Express and Mongodb. 
                 </li>
                 <li>🌱 Currently developing core web application packages</li>
             </ul>
