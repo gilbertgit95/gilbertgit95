@@ -11,7 +11,7 @@
             <ul>
                 <li>🔭 Currently exploring Javascript, Typescript, React, Express and Mongodb. 
                 </li>
-                <li>🌱 Currently developing core web application packages</li>
+                <li>🌱 Currently developing core web application packages. </li>
             </ul>
         </div>
         <div>
