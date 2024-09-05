@@ -2,16 +2,16 @@
     <div>
         <h3>👋 Hi there! I am Gilbert</h3>
         <p style="text-indent: 50px;">
-            As a modern farmer, my goal is to be able to create technologies for different platforms.
-            To make life easier with positive impact to the environment. To enhance communities and Environment
-            by developing technologies that will replace methods that are harmful or destructive to humanity.
+            As a modern farmer, my goal is to create techs for different platforms,
+            make life easier with positive impact to the environment, enhance communities
+            by developing techs that will replace methods that are harmful to humanity an environment.
         </p>
         <div>
             <h3>Current Status:</h3>
             <ul>
                 <li>🔭 Currently exploring Javascript, Typescript, React, Express and Mongodb. 
                 </li>
-                <li>🌱 Currently developing core web application packages. </li>
+                <li>🌱 Currently exploring node packages. </li>
             </ul>
         </div>
         <div>
