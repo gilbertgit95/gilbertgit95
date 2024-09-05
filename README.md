@@ -4,7 +4,7 @@
         <p style="text-indent: 50px;">
             As a modern farmer, my goal is to create techs for different platforms,
             make life easier with positive impact to the environment, enhance communities
-            by developing techs that will replace methods that are harmful to humanity an environment.
+            by developing techs that will replace methods that are harmful to humanity and environment.
         </p>
         <div>
             <h3>Current Status:</h3>
