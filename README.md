@@ -16,8 +16,6 @@
         </div>
         <div>
             <h3>Github Stats:</h3>
-            <!--img width="663"  src="https://activity-graph.herokuapp.com/graph?username=gilbertgit95" />
-            <br /-->
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact&theme=transparent" />
             <img height="200" src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&theme=transparent&show_icons=true" />
             <br />
