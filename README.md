@@ -7,14 +7,6 @@
             by developing techs that will replace methods that are harmful to humanity and environment.
         </p>
         <div>
-            <h3>Current Status:</h3>
-            <ul>
-                <li>🔭 Currently exploring Javascript, Typescript, React, Express and Mongodb. 
-                </li>
-                <li>🌱 Currently exploring node packages. </li>
-            </ul>
-        </div>
-        <div>
             <h3>Github Stats:</h3>
             <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact&theme=transparent" />
             <img height="200" src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&theme=transparent&show_icons=true" />
