@@ -7,11 +7,10 @@
             by developing techs that will replace methods that are harmful to humanity and environment.
         </p>
         <div>
-            <h3>Github Stats:</h3>
-            <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact&theme=transparent" />
-            <img height="200" src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&theme=transparent&show_icons=true" />
+            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilbertgit95&layout=compact&theme=transparent" />
+            <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilbertgit95&theme=transparent&show_icons=true" />
             <br />
-            <img height="200"  src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertgit95&theme=transparent" />
+            <img height="165"  src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertgit95&theme=transparent" />
         </div>
     </div>
 </div>
